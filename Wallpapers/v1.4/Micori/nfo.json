@@ -1,0 +1,14 @@
+{
+  "title": "Micori",
+  "pack_date": "2024-04-10",
+  "pack_termination": ".jpg",
+  "pack_everyone": "6",
+  "packages": [
+    "windows_micoridark_native_blue",
+    "windows_micoridark_lightspeed",
+    "windows_micoridark_redwhite",
+    "windows_micorilight_native_blue",
+    "windows_micorilight_lightspeed",
+    "windows_micorilight_micori",
+  ]
+}
